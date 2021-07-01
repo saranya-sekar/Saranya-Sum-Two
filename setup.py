@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'Saranya-Sum-Two',         # How you named your package folder (MyLib)
   packages = ['Saranya-Sum-Two'],   # Chose the same as "name"
-  version = '0.3',      # Start with a small number and increase it with every change you make
+  version = '0.4',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Addition of two numbers',   # Give a short description about your library
   author = 'Saranya Sekar',                   # Type in your name
   author_email = 'saranyatagore@yahoo.com',      # Type in your E-Mail
   url = 'https://github.com/saranya-sekar/Saranya-Sum-Two',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/saranya-sekar/Saranya-Sum-Two/archive/refs/tags/v01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/saranya-sekar/Saranya-Sum-Two/archive/refs/tags/v02.tar.gz',    # I explain this later on
   keywords = ['saranya_addition', 'saranya_sum'],   # Keywords that define your package best
   
   classifiers=[
